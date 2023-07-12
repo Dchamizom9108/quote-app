@@ -115,7 +115,7 @@ class QuoteBox extends Component {
             <p>{quote}</p>
           </div>
           <div id="author">
-            <p>{author}</p>
+            <p> - {author} - </p>
           </div>
           <div id="buttons">
             <button
